@@ -1,0 +1,22 @@
+h1 {
+  font-family: "Akaya Telivigala", cursive;
+  margin: 2% 5%;
+}
+
+p {
+  font-family: "Shippori Mincho B1", serif;
+  margin: 1% 8%;
+  font-size: larger;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  margin: 2% 1%;
+  color: black;
+  font-weight: bolder;
+  font-size: larger;
+}

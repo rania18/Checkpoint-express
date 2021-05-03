@@ -1,0 +1,30 @@
+h1 {
+  font-family: "Akaya Telivigala", cursive;
+  margin: 1% 5%;
+}
+
+p {
+  margin: 1% 5%;
+}
+
+div {
+  display: flex;
+  justify-content: space-around;
+}
+
+img {
+  margin-top: 2%;
+  box-shadow: 5px 10px 8px 10px #888888;
+  transition: transform 0.2s;
+}
+
+img:hover {
+  transform: scale(1.1);
+  cursor: grab;
+}
+a {
+  margin: 2% 1%;
+  color: black;
+  font-weight: bolder;
+  font-size: larger;
+}
